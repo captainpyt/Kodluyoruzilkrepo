@@ -25,3 +25,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 License
 
 MIT
+
+![Ilkrepo](https://img.imgyukle.com/2024/02/22/yKx1sb.png)
