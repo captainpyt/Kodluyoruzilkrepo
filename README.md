@@ -26,4 +26,4 @@ License
 
 MIT
 
-![Ilkrepo](https://img.imgyukle.com/2024/02/22/yKx1sb.png)
+![Ilkrepo](https://img.imgyukle.com/2024/02/22/yKx8Ye.jpeg)
